@@ -36,3 +36,4 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: streamlit-book-app
             location: 'east us'
+            ports: 8501
